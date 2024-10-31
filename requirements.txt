@@ -20,7 +20,7 @@ decorator==5.1.1
 defusedxml==0.7.1
 executing==2.1.0
 fastjsonschema==2.20.0
-Flask
+Flask==3.0.3
 fqdn==1.5.1
 h11==0.14.0
 httpcore==1.0.6
@@ -58,7 +58,7 @@ overrides==7.7.0
 packaging==24.1
 pandocfilters==1.5.1
 parso==0.8.4
-pillow
+pillow==11.0.0
 platformdirs==4.3.6
 prometheus_client==0.21.0
 prompt_toolkit==3.0.48
@@ -68,6 +68,7 @@ pycparser==2.22
 Pygments==2.18.0
 python-dateutil==2.9.0.post0
 python-json-logger==2.0.7
+pywin32==308
 pywinpty==2.0.14
 PyYAML==6.0.2
 pyzmq==26.2.0
